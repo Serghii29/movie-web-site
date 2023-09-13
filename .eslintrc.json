@@ -1,0 +1,5 @@
+{
+  "extends": "@mate-academy/eslint-config",
+
+  "plugins": ["@typescript-eslint/eslint-plugin"]
+}

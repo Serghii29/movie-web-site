@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 90px;
+  padding: 0 30px;
+}
+
+.nav__link {
+  display: flex;
+  gap: 20px;
+  text-transform: uppercase;
+
+  :hover {
+    cursor: pointer;
+  }
+}
